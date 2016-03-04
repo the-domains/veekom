@@ -1,24 +1,24 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: 'Simple, clear and understandable.'
-datePublished: '2016-03-04T02:27:22.089Z'
-dateModified: '2016-03-04T02:26:46.613Z'
-title: VEEKOM Logo
+description: "VEEKOM's focusing on helping small to large businesses to expand and increase their visibility by creating high end quality Websites, Business Cards, Logotypes, Banners, Animations, CMS that attract people to consume/use the product or service.    Our company also provides variety of IT Consulting solutions like: Programming, Technical Support, PC/Laptop Repair Networking, Hosting, AutoCAD Consultation, AutoCAD drawings, Audio Video Design and Integration  drawings."
+datePublished: '2016-03-04T02:38:01.332Z'
+dateModified: '2016-03-04T02:37:50.884Z'
+title: About
 author: []
+sourcePath: _posts/2016-03-04-veekom-logo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-veekom-logo.md
-published: true
+url: about/index.html
 _context: 'http://schema.org'
 _type: Article
 
