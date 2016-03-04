@@ -1,6 +1,6 @@
 name: VEEKOM
 favicon: null
-layout_spectrum: 0.00886
+layout_spectrum: 0.13699
 typography_spectrum: 0.86856
 title: 'VEEKOM :: Designing :: Updating :: Website Positioning :: Logotypes :: Banners :: Animations :: Business Cards :: IT Services :: Hosting :: Email and LAN Setup :: Consulting :: Programming :: CMS'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#28b1db'
     - '#ff0000'
     - '#e07100'
-  brandStrength: 0.125
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.3125
   rhythmicContrast: 0.25
