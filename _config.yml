@@ -2,6 +2,7 @@ name: VEEKOM
 favicon: null
 layout_spectrum: 0.5073694984894246
 typography_spectrum: 0.9776655584573746
+title: Main
 cta:
   domain: null
   bucket: null
