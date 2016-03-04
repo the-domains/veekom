@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VEEKOM :: Designing :: Updating :: Website Positioning :: Logotypes :: Banners :: Animations :: Business Cards :: IT Services :: Hosting :: Email and LAN Setup :: Consulting :: Programming :: CMS]]></title>
+        <description><![CDATA[VEEKOM :: Designing :: Updating :: Website Positioning :: Logotypes :: Banners :: Animations :: Business Cards :: IT Services :: Hosting :: Email and LAN Setup :: Consulting :: Programming :: CMS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 02:56:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About VEEKOM]]></title>
+            <description><![CDATA[<article><h1>About VEEKOM</h1><p>VEEKOM - Create website design with confidence</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fdcd3eb66fed10ec82e6d21bc80aa2c8e205bcbe.png"></article>]]></description>
+            <link>undefinedabout/index.html</link>
+            <guid isPermaLink="false">25b6289c-595f-42fc-9794-fe093542d4b4</guid>
+            <pubDate>Fri, 04 Mar 2016 02:56:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
