@@ -24,6 +24,6 @@ color:
     - '#e07100'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.3125
+  saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
