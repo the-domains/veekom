@@ -1,7 +1,7 @@
 name: VEEKOM
 favicon: null
-layout_spectrum: 0.5073694984894246
-typography_spectrum: 0.9776655584573746
+layout_spectrum: 1
+typography_spectrum: 0.11997
 title: Main
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.9433441138826311
+    - '#94979c'
+    - '#707070'
+    - '#121212'
+    - '#313131'
+    - '#555555'
+  brandStrength: 0.5
   lightness: 0.7208026517182589
   saturation: 0.3441762577276677
   rhythmicContrast: 0.07297792145982385
